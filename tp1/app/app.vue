@@ -14,6 +14,8 @@
 .logo {
   width: 100px;
   height: auto;
-  margin-bottom: 20px;
+}
+h1{
+  color: rgb(85, 182, 44);
 }
 </style>
